@@ -1,0 +1,2 @@
+# AncibleCore
+Multiplayer/MMO library
